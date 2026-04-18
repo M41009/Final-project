@@ -2,9 +2,7 @@
 # Todo List - Simple Task Management Application
 
 ## Graphical Abstract
-<!-- Please insert your project overview image, architecture diagram, or screenshot here -->
-<!-- Example: ![Graphical Abstract](path/to/your/image.png) -->
-[To be added: Project overview image]
+<img width="748" height="1548" alt="138" src="https://github.com/user-attachments/assets/9dec85d7-94fa-40f9-b600-d728f9eba4b7" />
 
 ---
 
@@ -85,7 +83,7 @@ This application adopts the **MVVM (Model-View-ViewModel)** architectural patter
 | **Storage** | Approximately 50MB |
 | **Permissions** | No sensitive permissions required |
 
-## Open source statement<img width="748" height="1548" alt="138" src="https://github.com/user-attachments/assets/42ebaacb-c4e5-4ff0-b9b1-317eb740be94" />
+## Open source statement
 
 
 This project uses the following third-party open-source libraries:
