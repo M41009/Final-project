@@ -26,9 +26,9 @@ This project is small in scope with clearly defined core requirements (add, view
 
 | Role | Responsibilities | Contribution Portion |
 | :--- | :--- | :---: |
-| **Project Manager & Developer** | Requirements analysis, schedule management, Kotlin implementation | [To be added]% |
-| **Testing & Documentation** | Functional testing, README writing, demo video recording | [To be added]% |
-| **UI/UX Design** | Interface layout design, interaction optimization | [To be added]% |
+| **Project Manager & Developer** | Requirements analysis, schedule management, Kotlin implementation |50% |
+| **Tan Chufei** | Functional testing, README writing, demo video recording | 25% |
+| **UI/UX Design** | Interface layout design, interaction optimization | 25% |
 
 ### Schedule
 
@@ -46,7 +46,7 @@ This application adopts the **MVVM (Model-View-ViewModel)** architectural patter
 
 ### Current Status
 - **Completed**: Add todo items, display todo list, delete todo items (core functionality complete).
-- **In Progress**: [To be added]
+- **In Progress**: More redefined UI design and countdown feature
 
 ### Future Plan
 - **Data Persistence**: Integrate Room Database to retain data after application restart.
