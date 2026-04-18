@@ -55,9 +55,7 @@ This application adopts the **MVVM (Model-View-ViewModel)** architectural patter
 ---
 
 ## 3. Demo Video
-
-<!-- Please insert your YouTube video link or embed code here -->
-**YouTube Demo Link**: [To be added: YouTube URL]
+**YouTube Demo Link**: https://youtu.be/f_TlNXYtZ-0
 
 > Recommended Video Duration: 10~15 minutes
 > Video Content Includes:
