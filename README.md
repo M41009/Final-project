@@ -26,9 +26,9 @@ This project is small in scope with clearly defined core requirements (add, view
 
 | Role | Responsibilities | Contribution Portion |
 | :--- | :--- | :---: |
-| **Project Manager & Developer** | Requirements analysis, schedule management, Kotlin implementation |50% |
+| **Yue Zhihao** | Requirements analysis, schedule management, Kotlin implementation |50% |
 | **Tan Chufei** | Functional testing, README writing, demo video recording | 25% |
-| **UI/UX Design** | Interface layout design, interaction optimization | 25% |
+| **Choy Wengtong** | Interface layout design, interaction optimization | 25% |
 
 ### Schedule
 
